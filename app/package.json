@@ -1,0 +1,18 @@
+{
+  "name": "vue-pie-rss",
+  "description": "vue nwjs rss reader",
+  "version": "1.0.0",
+  "author": "mvcuccaro <mvcuccaro@users.noreply.github.com>",
+  "main": "http://localhost:9080",
+  "node-remote": "*://localhost/*",
+  "window": {
+    "width": 1000,
+    "height": 563
+  },
+  "build": {
+    "nwVersion": "0.26.5",
+    "output": "../releases"
+  },
+  "dependencies": {
+  }
+}
