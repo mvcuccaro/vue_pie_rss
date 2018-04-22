@@ -2,6 +2,7 @@
 
 > vue nwjs rss reader - Wanted to make something to learn some vuejs.  Decided to make an rss reader using vuejs and the nwjs-vue template. 
 
+![alt text](https://raw.githubusercontent.com/mvcuccaro/vue_pie_rss/master/app/main/assets/screenshot.png)
 
 #### Build Setup
 
