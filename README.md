@@ -1,6 +1,7 @@
 # vue-pie-rss
 
-> vue nwjs rss reader
+> vue nwjs rss reader - Wanted to make something to learn some vuejs.  Decided to make an rss reader using vuejs and the nwjs-vue template. 
+
 
 #### Build Setup
 
@@ -8,7 +9,7 @@
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:9080
+# load app inside nwjs
 npm run dev
 
 # build NW.js application for production
